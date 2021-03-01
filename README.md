@@ -1,2 +1,2 @@
 # code-repository
-css place for my dumb shit
+code place for my dumb shit
